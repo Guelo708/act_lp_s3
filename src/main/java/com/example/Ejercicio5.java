@@ -14,7 +14,7 @@ public class Ejercicio5 {
 // Manipular puntos
         int puntos = 50;
         puntos *= 2;   // Duplica los puntos
-        puntos += 25;  // Solicita beneficio adicional
+        puntos += 25;  // Se  adiciona 25
 
 // Imprimir resultados
         System.out.println("Precio con descuento: $" + precio);
