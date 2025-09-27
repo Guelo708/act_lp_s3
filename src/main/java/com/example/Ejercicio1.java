@@ -20,7 +20,6 @@ public class Ejercicio1 {
         System.out.println("División entera: " + x + " / " + y + " = " + resultadoDivision);
         System.out.println("Módulo (residuo): " + x + " % " + y + " = " + resultadoModulo);
     
-
   }
 
     public static void main(String[] args) {
